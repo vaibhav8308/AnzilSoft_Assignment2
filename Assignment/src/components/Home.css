@@ -1,0 +1,26 @@
+.output{
+   
+    margin: auto;
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+thead{
+    background-color: rgb(158, 179, 41);
+}
+table{
+    border: 5px solid greenyellow;
+    width: 500px;
+}
+tbody{
+    background-color: rgb(223, 231, 150);
+}
+.table{
+    margin-top: 20px;
+    border: 5px double rgb(146, 25, 177);
+    color: rgb(87, 15, 87);
+    font-size: 20px;
+    font-weight: 500;
+}
